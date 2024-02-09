@@ -230,6 +230,7 @@ img {
   right: 0;
   bottom: 0;
   width: 260px;
+  /* height: 500px; */
 }
 
 .home__blob {
@@ -238,6 +239,8 @@ img {
 
 .home__blob-img {
   width: 360px;
+  height: 360px; /* Ensure the height matches the width */
+  border-radius: 50%
 }
 
 /*BUTTONS*/
